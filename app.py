@@ -6,6 +6,9 @@ import os
 # Título de la aplicación
 st.title('Predicción de Enfermedad Cardíaca')
 st.write('Ingrese los datos del paciente para predecir la probabilidad de enfermedad cardíaca.')
+st.write("**Nombre:** Sebastian Adrian Pastor Daza")
+st.write("**Código ISIL:** 72481264")
+st.markdown("**Cuaderno de Código:** https://colab.research.google.com/drive/1rgM0_jQf0xs7zZeEkIebsnCQgtFiC7KF?usp=sharing")
 
 # --- Cargar Modelos ---
 # Asegúrate de que la carpeta 'modelos' esté en el mismo directorio que este script o especifica la ruta completa.
